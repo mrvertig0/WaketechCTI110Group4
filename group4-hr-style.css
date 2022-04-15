@@ -1,0 +1,104 @@
+* {
+	border-radius: 10px;
+}
+body {
+background-color:#3399ff;
+font-family:arial, "Times New Roman", "Trebuchet MS";
+width: 840px;
+margin: auto;
+}
+header {
+background-color: #3399ff;
+color: white;
+text-align: center;
+padding: 10px;
+margin: 5px;
+}
+nav ul {
+list-style-type: none;
+padding: 5px;
+font-size: default;
+margin-right: 15px;
+}
+ul {
+list-type: none;
+padding: 5px;
+border: none;
+}
+li {
+border: 1px solid #3399ff;
+padding: 0px;
+margin: 3px;
+}
+nav {
+width: 300px;
+float: left;
+margin-right: 15px;
+}
+a {
+text-decoration: underline;
+color: white;
+background-color: #3399ff;
+padding: 5px;
+}
+img {
+border: 5px solid #3399ff;
+width: 150px;
+border-radius: 100px;
+}
+h1, h2, h3 {
+color: white;
+background-color: #3399ff;
+border-radius: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 3px;
+padding-bottom: 3px;
+}
+table, th, td {
+border: 2px solid #3399ff;
+margin: 3px;
+}
+thead {
+background-color: #3399ff;
+color: white;
+}
+tbody {
+color: black;
+}
+tfoot {
+font-size: small;
+color: black;
+background-color: white;
+}
+caption {
+font-family:arial, "Times New Roman", "Trebuchet MS";
+font-weight: bold;
+font-size: larger;
+color: white;
+background-color: #3399ff;
+border: 2px solid #3399ff;
+}
+button {
+background-color: #3399ff;
+color: white;
+font-size: large;
+}
+legend {
+color: white;
+background-color: #3399ff;
+padding: 5px;
+}
+.container {
+	margin: auto;
+	background-color: white;
+	width: 90%;
+	padding: 50px;
+	border-radius: 20px;
+}
+footer {
+	margin: auto;
+	width: 80%;
+}
+Class2 {
+}
